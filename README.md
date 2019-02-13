@@ -1,2 +1,2 @@
-# se-codechallenge
+# codechallenge
 Code challenge for Smart Edge
